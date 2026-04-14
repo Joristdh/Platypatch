@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Joristdh/Morphe/compare/v1.0.0...v1.1.0) (2026-04-14)
+
+
+### Features
+
+* this should trigger a release ([b859465](https://github.com/Joristdh/Morphe/commit/b85946550f1944f675f383be93cb3f164820068d))
+
 # 1.0.0 (2026-04-14)
 
 
