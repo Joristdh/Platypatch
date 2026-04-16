@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/Joristdh/Morphe/compare/v1.1.1...v1.1.2) (2026-04-16)
+
+
+### Bug Fixes
+
+* brand update ([87d037e](https://github.com/Joristdh/Morphe/commit/87d037e1ba89bda7712da81dd9f3dab274e4c6c4))
+
 ## [1.1.1](https://github.com/Joristdh/Morphe/compare/v1.1.0...v1.1.1) (2026-04-16)
 
 
