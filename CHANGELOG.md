@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/Joristdh/Morphe/compare/v1.1.0...v1.1.1) (2026-04-16)
+
+
+### Bug Fixes
+
+* Remove obsolete patch ([885bf3b](https://github.com/Joristdh/Morphe/commit/885bf3b2b6cc94a21404cd2c4426550173f2e08e))
+
 # [1.1.0](https://github.com/Joristdh/Morphe/compare/v1.0.0...v1.1.0) (2026-04-14)
 
 

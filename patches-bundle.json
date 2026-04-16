@@ -1,7 +1,7 @@
 {
-  "created_at": "2026-04-14T15:35:47",
-  "description": "# [1.1.0](https://github.com/Joristdh/Morphe/compare/v1.0.0...v1.1.0) (2026-04-14)\n\n\n### Features\n\n* this should trigger a release ([b859465](https://github.com/Joristdh/Morphe/commit/b85946550f1944f675f383be93cb3f164820068d))",
-  "download_url": "https://github.com/Joristdh/Morphe/releases/download/v1.1.0/patches-1.1.0.mpp",
+  "created_at": "2026-04-16T06:55:17",
+  "description": "## [1.1.1](https://github.com/Joristdh/Morphe/compare/v1.1.0...v1.1.1) (2026-04-16)\n\n\n### Bug Fixes\n\n* Remove obsolete patch ([885bf3b](https://github.com/Joristdh/Morphe/commit/885bf3b2b6cc94a21404cd2c4426550173f2e08e))",
+  "download_url": "https://github.com/Joristdh/Morphe/releases/download/v1.1.1/patches-1.1.1.mpp",
   "signature_download_url": "",
-  "version": "1.1.0"
+  "version": "1.1.1"
 }
